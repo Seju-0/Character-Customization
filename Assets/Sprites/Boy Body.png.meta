@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: 63d68bc803e209e4a9a3367671b3e138
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7444911426518638236
+    second: Boy Body_0
+  - first:
+      213: -5778796414545995436
+    second: Boy Body_1
+  - first:
+      213: -2751720155107204939
+    second: Boy Body_2
+  - first:
+      213: 31018580859293675
+    second: Boy Body_3
+  - first:
+      213: -7954843592877217494
+    second: Boy Body_4
+  - first:
+      213: -6528549528929768736
+    second: Boy Body_5
+  - first:
+      213: -5110860219895441199
+    second: Boy Body_6
+  - first:
+      213: 4843714920970742689
+    second: Boy Body_7
+  - first:
+      213: -4726881414932568915
+    second: Boy Body_8
+  - first:
+      213: 8232078117295253977
+    second: Boy Body_9
+  - first:
+      213: -6918775807602898158
+    second: Boy Body_10
+  - first:
+      213: 6046646134493283868
+    second: Boy Body_11
+  - first:
+      213: 3122965398728770463
+    second: Boy Body_12
+  - first:
+      213: 8092535844849231508
+    second: Boy Body_13
+  - first:
+      213: -2894369904219264091
+    second: Boy Body_14
+  - first:
+      213: -2388191508024231490
+    second: Boy Body_15
+  - first:
+      213: -1358809493006447073
+    second: Boy Body_16
+  - first:
+      213: -321765202573501289
+    second: Boy Body_17
+  - first:
+      213: -2270269461998161820
+    second: Boy Body_18
+  - first:
+      213: 8326434121923518538
+    second: Boy Body_19
+  - first:
+      213: -5323099452724920132
+    second: Boy Body_20
+  - first:
+      213: -3875158309140499898
+    second: Boy Body_21
+  - first:
+      213: -3446430719384807619
+    second: Boy Body_22
+  - first:
+      213: 8671598836965917242
+    second: Boy Body_23
+  - first:
+      213: -1217979125199187842
+    second: Boy Body_24
+  - first:
+      213: 8536097061282656648
+    second: Boy Body_25
+  - first:
+      213: 3740740919315959698
+    second: Boy Body_26
+  - first:
+      213: 1785537002003095077
+    second: Boy Body_27
+  - first:
+      213: -6523452432141532867
+    second: Boy Body_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy Body_0
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1008
+        width: 815
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ed3e16f73a15760800000000000000
+      internalID: 7444911426518638236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_1
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 982
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4595fa147479dcfa0800000000000000
+      internalID: -5778796414545995436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_2
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1008
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b06d81291defc9d0800000000000000
+      internalID: -2751720155107204939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_3
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1001
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef0e852c333e6000800000000000000
+      internalID: 31018580859293675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1018
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29e2ca16e7ba9190800000000000000
+      internalID: -7954843592877217494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_5
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 999
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eae89d0bcee565a0800000000000000
+      internalID: -6528549528929768736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 989
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8157065b39219b0800000000000000
+      internalID: -5110860219895441199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 956
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab68b9be05583340800000000000000
+      internalID: 4843714920970742689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_8
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 970
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da46c8fa56eb66eb0800000000000000
+      internalID: -4726881414932568915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 936
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d966a8ae673e3270800000000000000
+      internalID: 8232078117295253977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_10
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 970
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b434b6f029bff90800000000000000
+      internalID: -6918775807602898158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_11
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 934
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1606f07f900ae350800000000000000
+      internalID: 6046646134493283868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 968
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f938015eb70075b20800000000000000
+      internalID: 3122965398728770463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_13
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 947
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496aa5c89767e4070800000000000000
+      internalID: 8092535844849231508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_14
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 809
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abed6a38e125d7d0800000000000000
+      internalID: -2894369904219264091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_15
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 809
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb97c940a707bded0800000000000000
+      internalID: -2388191508024231490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 850
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e0ce327f9842de0800000000000000
+      internalID: -1358809493006447073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_17
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 838
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c5687c04cd88bf0800000000000000
+      internalID: -321765202573501289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_18
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 830
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460be25e3f16e70e0800000000000000
+      internalID: -2270269461998161820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_19
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 853
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4061f2f7bf6d8370800000000000000
+      internalID: 8326434121923518538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_20
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 840
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb04140304d8026b0800000000000000
+      internalID: -5323099452724920132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_21
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 826
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642f64f9c0ca83ac0800000000000000
+      internalID: -3875158309140499898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_22
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 814
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37131c4581db20d0800000000000000
+      internalID: -3446430719384807619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_23
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 870
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a324b08b235b75870800000000000000
+      internalID: 8671598836965917242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_24
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 864
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7059a2507ed81fe0800000000000000
+      internalID: -1217979125199187842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_25
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 848
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88132021d0f467670800000000000000
+      internalID: 8536097061282656648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_26
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 226
+        width: 236
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f889cfb08c9e330800000000000000
+      internalID: 3740740919315959698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_27
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 240
+        width: 207
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ed5b1717087c810800000000000000
+      internalID: 1785537002003095077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy Body_28
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 503
+        width: 175
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31cb01639a0875a0800000000000000
+      internalID: -6523452432141532867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
